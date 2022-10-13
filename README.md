@@ -1,4 +1,4 @@
-# Desafio 4 - Descrição do Desafio
+# Desafio 4 - Construa um Projeto Lógico de Banco de Dados do Zero
 
 Desafio proposto pela [DIO](https://www.dio.me/) 
 
